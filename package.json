@@ -1,0 +1,19 @@
+{
+  "name": "mangos-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon createTeam",
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
